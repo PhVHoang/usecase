@@ -1,5 +1,6 @@
 # Use Case Interactor
 
+[![Actions Status](https://github.com/swaggest/usecase/workflows/Test/badge.svg)](https://github.com/swaggest/usecase/actions)
 [![Build Status](https://travis-ci.org/swaggest/usecase.svg?branch=master)](https://travis-ci.org/swaggest/usecase)
 [![Coverage Status](https://codecov.io/gh/swaggest/usecase/branch/master/graph/badge.svg)](https://codecov.io/gh/swaggest/usecase)
 [![GoDevDoc](https://img.shields.io/badge/dev-doc-00ADD8?logo=go)](https://pkg.go.dev/github.com/swaggest/usecase)
